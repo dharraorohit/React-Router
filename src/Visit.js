@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function App(){
+export default function Visit(){
   return(
     <div>
-      <h1>App</h1>
+      <h1>Visit</h1>
     </div>
   )
 }
